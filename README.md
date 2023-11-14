@@ -1,6 +1,6 @@
-# README
+# Project Myblog
 
-<h2>Project MyBlog</h2>
+<h2>MyBlog is an web apps for engineer to creating blog easily</h2>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
